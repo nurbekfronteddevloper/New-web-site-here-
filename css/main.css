@@ -260,10 +260,7 @@ h6 {
 
 /* Desktop Navigation */
 
-.main-nav {
-  /* Drop Down */
-  /* Deep Drop Down */
-}
+
 
 .main-nav,
 .main-nav * {
@@ -1622,7 +1619,7 @@ h6 {
 
 
 .mualif-img img{
-  width: 90%;
+  width: 60%;
 }
 .muallif-section{
   display: flex;
